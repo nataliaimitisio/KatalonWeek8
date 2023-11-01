@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Contoh Global Variable</description>
+   <name>testGlobalVariable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe5e2564-4503-4010-938e-54831323da67</testCaseGuid>
+</TestCaseEntity>
