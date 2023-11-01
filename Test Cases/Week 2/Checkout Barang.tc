@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkout Barang Ya</description>
+   <name>Checkout Barang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd9fd2ae-602f-4623-a90f-d28e5d88988d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d5cf9eb1-3c01-4ee9-bbe7-16cf60ea16ed</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2d331b00-e8db-41ee-aaf9-d89dc4660fdf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>11274ae8-29b4-480f-9738-8a83a56a8bfd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'natalia'</defaultValue>
+      <description></description>
+      <id>d5cf9eb1-3c01-4ee9-bbe7-16cf60ea16ed</id>
+      <masked>false</masked>
+      <name>firstname</name>
+   </variable>
+   <variable>
+      <defaultValue>'imitisio'</defaultValue>
+      <description></description>
+      <id>2d331b00-e8db-41ee-aaf9-d89dc4660fdf</id>
+      <masked>false</masked>
+      <name>lastname</name>
+   </variable>
+   <variable>
+      <defaultValue>'13340'</defaultValue>
+      <description></description>
+      <id>11274ae8-29b4-480f-9738-8a83a56a8bfd</id>
+      <masked>false</masked>
+      <name>zipcode</name>
+   </variable>
+</TestCaseEntity>

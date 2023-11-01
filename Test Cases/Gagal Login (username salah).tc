@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test untuk melakukan recording di Katalon Studio</description>
+   <name>Gagal Login (username salah)</name>
+   <tag>TR1</tag>
+   <comment></comment>
+   <testCaseGuid>1e0d9c29-fc46-4afa-939e-90710f4f8357</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a8982275-eec3-4893-a6d3-11c39bb1a19a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>59665744-7552-4a54-9371-a1f17030e2d5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'nat@adira.co.id\t'</defaultValue>
+      <description></description>
+      <id>a8982275-eec3-4893-a6d3-11c39bb1a19a</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'@Dira2023'</defaultValue>
+      <description></description>
+      <id>59665744-7552-4a54-9371-a1f17030e2d5</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
